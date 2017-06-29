@@ -1,3 +1,3 @@
 # spring-boot-test
 
-prove
+The spring-boot-test project is a test
